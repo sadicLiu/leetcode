@@ -1,4 +1,4 @@
-package zuo.class_01_02;
+package zuo.class_01;
 
 public class Code_04_SmallSum {
     public static int smallSum(int[] arr) {
